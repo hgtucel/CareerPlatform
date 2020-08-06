@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hgtucel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hgtucel\\.nuget\\packages"
+    ]
+  }
+}
